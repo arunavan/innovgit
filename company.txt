@@ -1,3 +1,7 @@
 Innovapptive Pvt Ltd, Pune,Maharashtra ,India
 Developer2,Angular
+
 Fullstack Andriod Intern- Hyd team
+
+Fullstack Angular Intern-Hyd team
+>>>>>>> dev1
